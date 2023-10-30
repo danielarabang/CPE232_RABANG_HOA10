@@ -3,3 +3,10 @@
 
 [CentOS]
 192.168.56.112  ansible_python_interpreter=/usr/bin/python
+
+#HOME
+#[Ubuntu]
+#192.168.56.113  ansible_python_interpreter=/usr/bin/python3
+#
+#[CentOS]
+#192.168.1.21    ansible_python_interpreter=/usr/bin/python
